@@ -5,7 +5,7 @@ public class TreeNode<E> {
     protected TreeNode<E> left;
     protected TreeNode<E> right;
 
-    public TreeNode(E e) {
-        element = e;
+    public TreeNode(E element) {
+        this.element = element;
     }
 }

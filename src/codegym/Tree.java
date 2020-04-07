@@ -1,13 +1,17 @@
 package codegym;
 
 public interface Tree<E> {
-    public boolean insert(E e);
+    boolean insert(E e);
 
-    public void inorder();
+    void inOrder();
 
-    public void posorder();
+    void preOrder();
 
-    public void preorder();
+    void posOrder();
 
-    public int getSize();
+    int getSize();
+
+    boolean findNode(TreeNode<E> treeNode, E e);
+
+    boolean removeNode(TreeNode<E> treeNode, E e);
 }

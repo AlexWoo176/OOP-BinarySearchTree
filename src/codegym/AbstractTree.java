@@ -2,16 +2,17 @@ package codegym;
 
 public abstract class AbstractTree<E> implements Tree<E> {
     @Override
-    public void inorder() {
-    }
-
-    @Override
-    public void posorder() {
+    public void inOrder() {
 
     }
 
     @Override
-    public void preorder() {
+    public void preOrder() {
+
+    }
+
+    @Override
+    public void posOrder() {
 
     }
 }
