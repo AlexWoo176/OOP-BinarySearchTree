@@ -23,7 +23,7 @@ public class BinarySearchTree<E extends  Comparable<E>> extends AbstractTree<E> 
         else {
             TreeNode<E> parent = null;
             TreeNode<E> current = root;
-            while (current !=null) {
+            while (current != null) {
                 if (e.compareTo(current.element) < 0) {
                     parent = current;
                     current = current.left;

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="665fb42b-21e2-469a-b12a-6c05b6209646" name="Default Changelist" comment="" />
+    <list default="true" id="665fb42b-21e2-469a-b12a-6c05b6209646" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oop-BinarySearchTree/codegym/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Oop-BinarySearchTree/codegym/BinarySearchTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oop-BinarySearchTree/codegym/TestBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Oop-BinarySearchTree/codegym/TestBST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codegym/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codegym/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codegym/TestBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codegym/TestBST.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +22,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aAKL54ZUaJLW2xXbrL4vPw5BFL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,6 +34,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
@@ -49,7 +61,8 @@
       <updated>1586172898932</updated>
       <workItem from="1586172900276" duration="1188000" />
       <workItem from="1586174118702" duration="1311000" />
-      <workItem from="1586176019194" duration="1021000" />
+      <workItem from="1586176019194" duration="2071000" />
+      <workItem from="1586182127121" duration="31000" />
     </task>
     <servers />
   </component>
@@ -61,21 +74,29 @@
       <screen x="0" y="27" width="1600" height="800" />
     </state>
     <state x="608" y="27" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/0.27.1600.800@0.27.1600.800" timestamp="1586174203653" />
-    <state width="1554" height="619" key="GridCell.Tab.0.bottom" timestamp="1586176484589">
+    <state width="1554" height="230" key="GridCell.Tab.0.bottom" timestamp="1586179241534">
       <screen x="0" y="27" width="1600" height="800" />
     </state>
-    <state width="1554" height="619" key="GridCell.Tab.0.bottom/0.27.1600.800@0.27.1600.800" timestamp="1586176484589" />
-    <state width="1554" height="619" key="GridCell.Tab.0.center" timestamp="1586176484584">
+    <state width="1554" height="230" key="GridCell.Tab.0.bottom/0.27.1600.800@0.27.1600.800" timestamp="1586179241534" />
+    <state width="1554" height="230" key="GridCell.Tab.0.center" timestamp="1586179241533">
       <screen x="0" y="27" width="1600" height="800" />
     </state>
-    <state width="1554" height="619" key="GridCell.Tab.0.center/0.27.1600.800@0.27.1600.800" timestamp="1586176484584" />
-    <state width="1554" height="619" key="GridCell.Tab.0.left" timestamp="1586176484583">
+    <state width="1554" height="230" key="GridCell.Tab.0.center/0.27.1600.800@0.27.1600.800" timestamp="1586179241533" />
+    <state width="1554" height="230" key="GridCell.Tab.0.left" timestamp="1586179241533">
       <screen x="0" y="27" width="1600" height="800" />
     </state>
-    <state width="1554" height="619" key="GridCell.Tab.0.left/0.27.1600.800@0.27.1600.800" timestamp="1586176484583" />
-    <state width="1554" height="619" key="GridCell.Tab.0.right" timestamp="1586176484586">
+    <state width="1554" height="230" key="GridCell.Tab.0.left/0.27.1600.800@0.27.1600.800" timestamp="1586179241533" />
+    <state width="1554" height="230" key="GridCell.Tab.0.right" timestamp="1586179241534">
       <screen x="0" y="27" width="1600" height="800" />
     </state>
-    <state width="1554" height="619" key="GridCell.Tab.0.right/0.27.1600.800@0.27.1600.800" timestamp="1586176484586" />
+    <state width="1554" height="230" key="GridCell.Tab.0.right/0.27.1600.800@0.27.1600.800" timestamp="1586179241534" />
+    <state x="456" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1586182126721">
+      <screen x="0" y="27" width="1600" height="800" />
+    </state>
+    <state x="456" y="253" key="com.intellij.ide.util.TipDialog/0.27.1600.800@0.27.1600.800" timestamp="1586182126721" />
+    <state x="109" y="28" width="1372" height="796" key="new project wizard" timestamp="1586182156503">
+      <screen x="0" y="27" width="1600" height="800" />
+    </state>
+    <state x="109" y="28" width="1372" height="796" key="new project wizard/0.27.1600.800@0.27.1600.800" timestamp="1586182156503" />
   </component>
 </project>
